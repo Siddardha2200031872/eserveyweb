@@ -11,5 +11,6 @@ The E-Survey Web Application is a Mern Stack Project and ESurvey is a user-frien
 <br> cd back-end
 <br> npm install
 <br> node app
-## Author - Rama Teja
+## Author - siddardha varama
+
 
