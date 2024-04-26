@@ -11,6 +11,7 @@ const userSchema = mongoose.Schema({
         required: [true, "A user must have email"]
     },
     password: {
+        
         type: String,
         required: [true, "A user must create a password"]
     },
